@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "533053412536",
+    "firebase_url": "https://quizonline-69f9a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "quizonline-69f9a",
+    "storage_bucket": "quizonline-69f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533053412536:android:0dc2393bd6aaba432e104d",
+        "android_client_info": {
+          "package_name": "com.mihalevdanya.quizonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQ3ws6jqwa2KB0CcIr8FXp6iwGflNS5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

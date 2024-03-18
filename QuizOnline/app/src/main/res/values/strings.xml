@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Тест "The Walking Dead"</string>
+    <string name="alert_dialog_title">Вы точно хотите удалить свой аккаунт?</string>
+    <string name="alert_dialog_subTitle">При удалении аккаунта пользователь не сможет зайти под этим же логином и паролем.</string>
+</resources>
